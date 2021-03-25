@@ -14,7 +14,7 @@ The AWS Developer's Quick Reference diagram is available in the following format
 |----------|----------|
 | [aws-quick-ref.drawio](aws-quick-ref.drawio) |  draw.io |
 | [aws-quick-ref.pdf](aws-quick-ref.pdf) |    PDF   |
-| [aws-quick-ref.png](aws-quick-ref.png |    PNG   |
+| [aws-quick-ref.png](aws-quick-ref.png) |    PNG   |
 | [aws-quick-ref.svg](aws-quick-ref.svg) | SVG (Scalable Vector Graphics) |
 | [aws-quick-ref.vsd](aws-quick-ref.vsd) | Microsoft Visio (2003-2010 Drawing) |
 | [aws-quick-ref.vsdx](aws-quick-ref.vsdx) | Microsoft Visio |
